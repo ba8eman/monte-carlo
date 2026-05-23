@@ -11,3 +11,5 @@ Maintained a map telling which end is connected to which end.
 Picked up two ends at random and connected them together in the map by updating new ends.
 
 The value turned out to be 2.938794 which i guess after reading theory is close to the 2.9377 true answer.
+
+<img width="438" height="122" alt="image" src="https://github.com/user-attachments/assets/2f462a37-a6bf-4af5-8a8b-e1fe8b86e0f6" />
