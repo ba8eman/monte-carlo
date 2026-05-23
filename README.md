@@ -4,7 +4,7 @@
 This simulation was done to solve a puzzle featured in Grant Sanderson's latest puzzle of the month linked here : https://youtube.com/shorts/ZHXt0-_gSj4?si=yIWiOG5TqQmQLQr2
 
 The problem looked very monte carlo-able and I just wanted to code for recreation.
-I just created constructs to simulate randomly picking up strings and tying them together.
+I created constructs to simulate randomly picking up strings and tying them together.
 
 Shuffled a list of 100 integers to simulate ends of strings.
 Maintained a map telling which end is connected to which end.
