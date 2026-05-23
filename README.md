@@ -12,4 +12,6 @@ Picked up two ends at random and connected them together in the map by updating 
 
 The value turned out to be 2.938794 which i guess after reading theory is close to the 2.9377 true answer.
 
-<img width="438" height="122" alt="image" src="https://github.com/user-attachments/assets/2f462a37-a6bf-4af5-8a8b-e1fe8b86e0f6" />
+
+<img width="401" height="269" alt="image" src="https://github.com/user-attachments/assets/9304a3d3-5135-4f03-bfb8-9e75f13f1916" />
+
